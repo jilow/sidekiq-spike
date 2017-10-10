@@ -2,7 +2,7 @@
 
 This is a spike to determine how to setup and use Sidekiq
 
-# Setup & Usage
+## Setup & Usage
 
 Use gemset:
 ```bash
